@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ProjetoTesteTdd.Test/obj
+/ProjetoTesteTdd.Test/bin/Debug/net6.0
+/src/ProjetoTesteTdd.API/obj
+/src/ProjetoTesteTdd.API/bin/Debug/net6.0
